@@ -1,0 +1,11 @@
+
+Name: Syed Kazim Raza
+Github Username: SyedKazamRaza
+Hobbies:
+1. Learning new technologies and tools.
+2. I love watching Cricket.
+Favorite Stack:
+MERN stack. I am currently doing MERN stack Cource from Udemy.
+
+Feedback:
+Very informative and interactive Session. Looking forward for next session.
